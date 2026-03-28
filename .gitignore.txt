@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.mp3
+uploaded_image.png
+.env
+output.mp3
